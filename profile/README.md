@@ -19,4 +19,5 @@ by theperceptle.com. TypeScript, MIT licensed, with no runtime dependencies.
 
 [Pinterest](https://www.pinterest.com/perceptle/) |
 [Trustpilot](https://www.trustpilot.com/review/theperceptle.com) |
-[Linktree](https://linktr.ee/perceptle)
+[Linktree](https://linktr.ee/perceptle) |
+[Open Collective](https://opencollective.com/theperceptle)
